@@ -1,0 +1,22 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "practcing using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameshan2002/Jest-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameshan2002/Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/jameshan2002/Jest-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
